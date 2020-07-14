@@ -1,5 +1,6 @@
 # analyzing-movie-dataset
-Analyzing movie dataset using Python Fundamentals
+Analyzing movie dataset using Python Fundamentals.
+A collection of projects as part of the Python for Data Science program at GreyAtom EduTech Pvt Ltd
 ### Project Overview
 
  A simple yet mind-blending program , about amovie review system .
